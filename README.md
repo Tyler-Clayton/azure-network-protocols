@@ -33,7 +33,7 @@ Welcome to the project! First you will need to create (2) VMs on Azure. One mach
 <img src="https://i.imgur.com/IIUShxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We can inspect each individual packet and see the actual data that is being sent in each ping, as demontrated in the picture below.
+We can inspect each individual packet and see the actual data that is being sent in each ping, as demonstrated in the picture below.
 </p>
 <br />
 <p>
