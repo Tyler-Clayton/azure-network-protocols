@@ -59,7 +59,7 @@ Now we will use Wireshark to filter for the Dynamic Host Configuration Protocol 
 <img src="https://i.imgur.com/vU8fpQf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we'll analyze DNS (Domain Name Server) traffic by filtering it on Wireshark the same way. We will initiate DNS traffic by typing in the command "nslookup www.google.com." This command essentially asks our DNS server what is google's IP address.
+Now we'll analyze DNS (Domain Name Server) traffic by filtering it on Wireshark the same way. We will initiate DNS traffic by typing in the command "nslookup www.google.com." This command essentially asks our DNS server what is google's IP address. DNS traffic utilizes port number 53. 
 </p>
 <br />
 <img src="https://i.imgur.com/VMcwmsO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
